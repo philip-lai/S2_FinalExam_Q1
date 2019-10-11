@@ -1,0 +1,16 @@
+
+h6 {
+  text-align: center;
+  font-size: 8px;
+}
+
+.genres p{
+  font-size: 4px;
+  background-color: #F0F8FF;
+  margin-right: 3px;
+  display: inline-block;
+}
+
+.nav-item {
+  border: 0.5px solid #F5F5F5;
+}
