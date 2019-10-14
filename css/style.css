@@ -1,11 +1,11 @@
 
 h6 {
   text-align: center;
-  font-size: 8px;
+  font-size: 1em;
 }
 
 .genres p{
-  font-size: 4px;
+  font-size: 0.5em;
   background-color: #F0F8FF;
   margin-right: 3px;
   display: inline-block;
