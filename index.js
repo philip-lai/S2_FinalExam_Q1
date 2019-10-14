@@ -54,7 +54,7 @@ function filterMovie(data, classifyIndex) {
     let genresContent = ''
     if (item.genres.indexOf(classifyIndex) !== -1) {
       for (let genres of item.genres) {
-        genresContent += `<p>${classifyNames[genres - 1]}</p>`
+        genresContent += `<label>${classifyNames[genres - 1]}</label>`
       }
 
       htmlContent += `
